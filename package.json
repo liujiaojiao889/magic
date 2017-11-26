@@ -1,5 +1,5 @@
 {
-  "name": "game.guess",
+  "name": "magic",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/kiteoath/game.guess.git"
+    "url": "https://github.com/liujiaojiao889"
   },
   "author": "",
   "license": "ISC",
