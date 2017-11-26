@@ -1,0 +1,12 @@
+<res>
+   <item name="res/loading/neice.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="images/loading/progress.png" type="ProgressBar" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/game/moneyNum.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="images/loading/point.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=2,2,0,1" picType="0"/>
+   <item name="res/alert/prizeNum.fnt" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/prizeNum.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/ballNum.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/pointNum.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/start.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/light.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+</res>
